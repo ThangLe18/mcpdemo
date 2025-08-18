@@ -3,4 +3,4 @@ Hello, world! 123
 This is a simple text file created with MCP.
 
 Date: 2025-08-14
-Project: MCP Demo
+Project: MCP Demo 123
