@@ -1,4 +1,4 @@
-Hello, world! 123
+Hello, Neo from MCP!
 
 This is a simple text file created with MCP.
 
