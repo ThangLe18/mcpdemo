@@ -1,4 +1,4 @@
-Hello, Neo from MCP! feature 3
+Hello, Neo from MCP! feature 100
 
 This is a simple text file created with MCP.
 
